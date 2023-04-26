@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 50vh;
+  width: 65vh;
+  border-radius: 7px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-styling {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
